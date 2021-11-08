@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://google.com",
+  "minAcceptVersion": 1,
+  "isContainsAds": true,
+  "isMaintains": false,
+  "startMaintains": 0,
+  "endMaintains": 0
+}
