@@ -9,6 +9,10 @@
     "version": "Version",
     "loading_message": "Loading!\nPlease wait a moment!",
     "schedule": "Schedule",
-    "live": "Living Matches"
+    "schedule_empty": "Have no match to show!",
+    "live": "Live Matches",
+    "live_empty": "No match is being played right now.",
+    "favorite": "Favorite Matches",
+    "favorite_empty": "You haven't selected any match yet!"
   }
 }
