@@ -4,5 +4,12 @@
   "isContainsAds": true,
   "isMaintains": false,
   "startMaintains": 0,
-  "endMaintains": 0
+  "endMaintains": 0,
+  "imageUrls": [
+    "https://flashscore-source.000webhostapp.com/",
+    "https://wd-source.000webhostapp.com/",
+    "https://wd-source-1.000webhostapp.com/",
+    "https://wd-source-2.000webhostapp.com/",
+    "https://wd-source-3.000webhostapp.com/"
+  ]
 }
