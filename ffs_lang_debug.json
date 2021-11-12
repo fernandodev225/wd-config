@@ -13,6 +13,7 @@
     "live": "Live Matches",
     "live_empty": "No match is being played right now.",
     "favorite": "Favorite Matches",
-    "favorite_empty": "You haven't selected any match yet!"
+    "favorite_empty": "You haven't selected any match yet!",
+    "schedule_all_matches": "ALL MATCHES"
   }
 }
