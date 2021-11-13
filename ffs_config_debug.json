@@ -11,5 +11,18 @@
     "https://wd-source-1.000webhostapp.com/",
     "https://wd-source-2.000webhostapp.com/",
     "https://wd-source-3.000webhostapp.com/"
+  ],
+  "flagUrls": [
+    "https://ffs-rs-1.web.app/image/",
+    "https://ffs-rs-2.web.app/image/",
+    "https://ffs-rs-3.web.app/image/",
+    "https://ffs-rs-4.web.app/image/",
+    "https://ffs-rs-5.web.app/image/",
+    "https://ffs-rs-6.web.app/image/",
+    "https://ffs-rs-7.web.app/image/",
+    "https://ffs-rs-8.web.app/image/",
+    "https://ffs-rs-9.web.app/image/",
+    "https://ffs-rs-10.web.app/image/",
+    "https://ffs-rs-11.web.app/image/"
   ]
 }
