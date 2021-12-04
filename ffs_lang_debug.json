@@ -14,6 +14,24 @@
     "live_empty": "No match is being played right now.",
     "favorite": "Favorite Matches",
     "favorite_empty": "You haven't selected any match yet!",
-    "schedule_all_matches": "ALL MATCHES"
+    "schedule_all_matches": "ALL MATCHES",
+    "error_message_retry": "Have an error!\nClick the logo to retry. Thank you!",
+    "dark_mode": "Dark Mode",
+    "summary": "Summary",
+    "statistics": "Statistics",
+    "possession": "Ball Possession (%)",
+    "shots_on_target": "Shots On Target",
+    "shots_off_target": "Shots Off Target",
+    "shots_blocked": "Shots Blocked",
+    "corner_kicks": "Corner Kicks",
+    "offsides": "Offsides",
+    "fouls": "Fouls",
+    "yellow_cards": "Yellow Cards",
+    "red_cards": "Red Cards",
+    "throw_ins": "Throw-ins",
+    "crosses": "Crosses",
+    "goalkeeper_saves": "Goalkeeper Saves",
+    "goal_kicks": "Goal Kicks",
+    "treatments": "Treatments"
   }
 }
