@@ -36,6 +36,13 @@
     "goalkeeper_saves": "Goalkeeper Saves",
     "goal_kicks": "Goal Kicks",
     "treatments": "Treatments",
-    "counter_attacks": "Counter Attacks"
+    "counter_attacks": "Counter Attacks",
+    "first_half": "First Half",
+    "second_half": "Second Half",
+    "extra_time": "Extra Time",
+    "penalties": "Penalties",
+    "starting_lineups": "Starting Lineups",
+    "substitutes": "Substitutes",
+    "coaches": "Coaches"
   }
 }
