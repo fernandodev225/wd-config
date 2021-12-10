@@ -45,7 +45,7 @@
     "substitutes": "Substitutes",
     "coaches": "Coaches",
     "last_matches": "Last Matches: ",
-    "h2h_matches": "Head-to-Head Matches: ",
+    "h2h_matches": "Head-to-Head Matches",
     "h2h_empty": "No match found!"
   }
 }
