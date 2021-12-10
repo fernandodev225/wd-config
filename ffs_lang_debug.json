@@ -43,6 +43,9 @@
     "penalties": "Penalties",
     "starting_lineups": "Starting Lineups",
     "substitutes": "Substitutes",
-    "coaches": "Coaches"
+    "coaches": "Coaches",
+    "last_matches": "Last Matches: ",
+    "h2h_matches": "Head-to-Head Matches: ",
+    "h2h_empty": "No match found!"
   }
 }
