@@ -239,7 +239,7 @@
       "des": "Championship play-off (additional spot(s) for OFC Champions League qualification)"
     }
   },
-  "phase_description": {
+  "phaseDescription": {
     "150": "Cup result determines 1 spot in UEFA Europa League.",
     "151": "Cup result determines 1 spot in UEFA Europa League qualification.",
     "153": "Cup result determines 1 spot in CAF Confederation Cup qualification.",
