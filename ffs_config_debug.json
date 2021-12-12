@@ -238,5 +238,18 @@
       "col": "0x0052AA",
       "des": "Championship play-off (additional spot(s) for OFC Champions League qualification)"
     }
+  },
+  "phase_description": {
+    "150": "Cup result determines 1 spot in UEFA Europa League.",
+    "151": "Cup result determines 1 spot in UEFA Europa League qualification.",
+    "153": "Cup result determines 1 spot in CAF Confederation Cup qualification.",
+    "154": "Cup result determines 1 spot in AFC Champions League.",
+    "155": "Cup result determines 1 spot in AFC Champions League qualification.",
+    "156": "Cup result determines 1 spot in AFC Cup.",
+    "157": "Cup result determines 1 spot in AFC Cup qualification.",
+    "158": "Cup result determines 1 spot in CONCACAF Champions League.",
+    "160": "Cup result determines 1 spot in Copa Libertadores.",
+    "162": "Cup result determines 1 spot in Copa Sudamericana.",
+    "180": "League Cup result determines 1 spot in UEFA Europa League qualification."
   }
 }
