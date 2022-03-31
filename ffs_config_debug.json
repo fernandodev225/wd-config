@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://yensamngoclinh.vn/api/flashscore/",
+  "baseUrl": "http://stg-api.ffscore.net/api/flashscore/",
   "minAcceptVersion": 1,
   "isContainsAds": true,
   "isMaintains": false,
