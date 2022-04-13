@@ -25,6 +25,13 @@
     "https://ffs-rs-10.web.app/image/flags/",
     "https://ffs-rs-11.web.app/image/flags/"
   ],
+  "tournamentStats": {
+    "1": "Goals",
+    "3": "Assists",
+    "4": "Red Cards",
+    "6": "Yellow Cards",
+    "8": "Shots On Target"
+  },
   "phases": {
     "2": {
       "col": "0x640064",
