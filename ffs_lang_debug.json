@@ -56,6 +56,8 @@
       "h2h_matches": "Head-to-Head Matches",
       "h2h_empty": "No match found!",
       "error_title": "Error!",
-      "error_message": "An error occurred, please try again later."
+      "error_message": "An error occurred, please try again later.",
+      "search": "Search by team...",
+      "search_empty": "No result found."
   }
 }
