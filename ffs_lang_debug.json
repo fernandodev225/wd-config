@@ -51,7 +51,8 @@
     "error_title": "Lỗi!",
     "error_message": "Xãy ra lỗi, vui lòng thử lại sau.",
     "search": "Tìm theo tên đội...",
-    "search_empty": "Không tìm thấy kết quả"
+    "search_empty": "Không tìm thấy kết quả",
+    "Today": "Hôm nay"
   },
   "en_US": {
     "version": "Version",
@@ -105,6 +106,7 @@
     "error_title": "Error!",
     "error_message": "An error occurred, please try again later.",
     "search": "Search by team...",
-    "search_empty": "No result found."
+    "search_empty": "No result found.",
+    "Today": "Today"
   }
 }
