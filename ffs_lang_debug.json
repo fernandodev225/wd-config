@@ -52,7 +52,10 @@
     "error_message": "Xãy ra lỗi, vui lòng thử lại sau.",
     "search": "Tìm theo tên đội...",
     "search_empty": "Không tìm thấy kết quả",
-    "Today": "Hôm nay"
+    "Today": "Hôm nay",
+    "splash_error_title": "Lỗi kết nối",
+    "splash_error_message": "Không thể tải được dữ liệu. Vui lòng kiểm tra lại kết nối internet của bạn và thử lại.",
+    "try_again": "Thử lại"
   },
   "en_US": {
     "version": "Version",
@@ -107,6 +110,9 @@
     "error_message": "An error occurred, please try again later.",
     "search": "Search by team...",
     "search_empty": "No result found.",
-    "Today": "Today"
+    "Today": "Today",
+    "splash_error_title": "No internet connection",
+    "splash_error_message": "The requested data cannot be downloaded. There is no internet connection at the moment.",
+    "try_again": "Try again"
   }
 }
