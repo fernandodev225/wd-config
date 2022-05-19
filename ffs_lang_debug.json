@@ -56,7 +56,11 @@
     "splash_error_title": "Lỗi kết nối",
     "splash_error_message": "Không thể tải được dữ liệu. Vui lòng kiểm tra lại kết nối internet của bạn và thử lại.",
     "try_again": "Thử lại",
-     "exit": "THOÁT"
+    "exit": "THOÁT",
+    "maintain_title": "Bảo Trì Hệ Thống",
+    "from": "Từ",
+    "to": "Đến",
+    "maintain_message": "Vui lòng quay lại sau. Xin lỗi vì sự bất tiện này!"
   },
   "en_US": {
     "version": "Version",
@@ -115,6 +119,10 @@
     "splash_error_title": "No internet connection",
     "splash_error_message": "The requested data cannot be downloaded. There is no internet connection at the moment.",
     "try_again": "Try again",
-    "exit": "EXIT"
+    "exit": "EXIT",
+    "maintain_title": "System Down For Maintain",
+    "from": "From",
+    "to": "To",
+    "maintain_message": "Please comeback later. Sorry for the inconvenience."
   }
 }
