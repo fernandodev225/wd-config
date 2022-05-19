@@ -121,8 +121,8 @@
     "try_again": "Try again",
     "exit": "EXIT",
     "maintain_title": "System Down For Maintain",
-    "from": "From",
-    "to": "To",
+    "from": "From: ",
+    "to": " To: ",
     "maintain_message": "Please comeback later. Sorry for the inconvenience."
   }
 }
