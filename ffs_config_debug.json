@@ -2,9 +2,8 @@
   "baseUrl": "http://stg-api.ffscore.net/api/flashscore/",
   "minAcceptVersion": 1,
   "isContainsAds": true,
-  "isMaintains": false,
-  "startMaintains": 0,
-  "endMaintains": 0,
+  "startMaintains": 1652940000,
+  "endMaintains": 1652950800,
   "imageUrls": [
     "https://flashscore-source.000webhostapp.com/",
     "https://wd-source.000webhostapp.com/",
