@@ -55,7 +55,8 @@
     "Today": "Hôm nay",
     "splash_error_title": "Lỗi kết nối",
     "splash_error_message": "Không thể tải được dữ liệu. Vui lòng kiểm tra lại kết nối internet của bạn và thử lại.",
-    "try_again": "Thử lại"
+    "try_again": "Thử lại",
+     "exit": "THOÁT"
   },
   "en_US": {
     "version": "Version",
@@ -113,6 +114,7 @@
     "Today": "Today",
     "splash_error_title": "No internet connection",
     "splash_error_message": "The requested data cannot be downloaded. There is no internet connection at the moment.",
-    "try_again": "Try again"
+    "try_again": "Try again",
+    "exit": "EXIT"
   }
 }
