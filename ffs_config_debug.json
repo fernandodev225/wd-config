@@ -1,9 +1,9 @@
 {
   "baseUrl": "http://stg-api.ffscore.net/api/flashscore/",
   "minAcceptVersion": 1,
-  "isContainsAds": true,
+  "isContainsAds": false,
   "startMaintains": 1652940000,
-  "endMaintains": 1652950800,
+  "endMaintains": 0,
   "imageUrls": [
     "https://flashscore-source.000webhostapp.com/",
     "https://wd-source.000webhostapp.com/",
@@ -346,8 +346,6 @@
     "210": "League cup gives UEFA Europa Conference League.",
     "211": "League cup gives UEFA Europa Conference League qualification."
   },
-  "bannerAds": "",
-  "interstitialAds": "",
-   "bannerAds1": "ca-app-pub-3940256099942544/6300978111",
-  "interstitialAds1": "ca-app-pub-3940256099942544/1033173712"
+   "bannerAds": "ca-app-pub-3940256099942544/6300978111",
+  "interstitialAds": "ca-app-pub-3940256099942544/1033173712"
 }
