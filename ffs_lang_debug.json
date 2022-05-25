@@ -60,7 +60,10 @@
     "maintain_title": "Bảo Trì Hệ Thống",
     "from": "Từ: ",
     "to": " Đến: ",
-    "maintain_message": "Vui lòng quay lại sau. Xin lỗi vì sự bất tiện này!"
+    "maintain_message": "Vui lòng quay lại sau. Xin lỗi vì sự bất tiện này!",
+    "update_title": "Đã Có Phiên Bản Mới",
+    "update_message": "Vui lòng cập nhật phiên bản mới!",
+    "update_button": "CẬP NHẬT NGAY"
   },
   "en_US": {
     "version": "Version",
@@ -123,6 +126,9 @@
     "maintain_title": "System Down For Maintain",
     "from": "From: ",
     "to": " To: ",
-    "maintain_message": "Please comeback later. Sorry for the inconvenience."
+    "maintain_message": "Please comeback later. Sorry for the inconvenience.",
+    "update_title": "New Version Available",
+    "update_message": "Please update to latest version. Thank you!",
+    "update_button": "UPDATE NOW"
   }
 }
