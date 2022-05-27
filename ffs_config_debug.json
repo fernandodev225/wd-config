@@ -1,6 +1,6 @@
 {
   "baseUrl": "http://stg-api.ffscore.net/api/flashscore/",
-  "minAcceptVersion": 4,
+  "minAcceptVersion": 2,
   "isContainsAds": false,
   "startMaintains": 1652940000,
   "endMaintains": 0,
