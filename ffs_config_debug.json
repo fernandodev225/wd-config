@@ -5,24 +5,16 @@
   "startMaintains": 1652940000,
   "endMaintains": 0,
   "imageUrls": [
-    "https://flashscore-source.000webhostapp.com/",
-    "https://wd-source.000webhostapp.com/",
-    "https://wd-source-1.000webhostapp.com/",
-    "https://wd-source-2.000webhostapp.com/",
-    "https://wd-source-3.000webhostapp.com/"
-  ],
-  "flagUrls": [
-    "https://ffs-rs-1.web.app/image/flags/",
-    "https://ffs-rs-2.web.app/image/flags/",
-    "https://ffs-rs-3.web.app/image/flags/",
-    "https://ffs-rs-4.web.app/image/flags/",
-    "https://ffs-rs-5.web.app/image/flags/",
-    "https://ffs-rs-6.web.app/image/flags/",
-    "https://ffs-rs-7.web.app/image/flags/",
-    "https://ffs-rs-8.web.app/image/flags/",
-    "https://ffs-rs-9.web.app/image/flags/",
-    "https://ffs-rs-10.web.app/image/flags/",
-    "https://ffs-rs-11.web.app/image/flags/"
+    "https://flashresource-0.web.app/image/",
+    "https://flashresource-1.web.app/image/",
+    "https://flashresource-2.web.app/image/",
+    "https://flashresource-3.web.app/image/",
+    "https://flashresource-4.web.app/image/",
+    "https://flashresource-5.web.app/image/",
+    "https://flashresource-6.web.app/image/",
+    "https://flashresource-7.web.app/image/",
+    "https://flashresource-8.web.app/image/",
+    "https://flashresource-9.web.app/image/"
   ],
   "tournamentStats": {
     "1": "Goals",
@@ -346,6 +338,6 @@
     "210": "League cup gives UEFA Europa Conference League.",
     "211": "League cup gives UEFA Europa Conference League qualification."
   },
-   "bannerAds": "ca-app-pub-3940256099942544/6300978111",
+  "bannerAds": "ca-app-pub-3940256099942544/6300978111",
   "interstitialAds": "ca-app-pub-3940256099942544/1033173712"
 }
