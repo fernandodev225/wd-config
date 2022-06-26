@@ -16,6 +16,11 @@
     "https://flashresource-8.web.app/image/",
     "https://flashresource-9.web.app/image/"
   ],
+  "newsImages": [
+    "https://flashnews-0.web.app/news/",
+    "https://flashnews-1.web.app/news/",
+    "https://flashnews-2.web.app/news/"
+  ],
   "tournamentStats": {
     "1": "Goals",
     "3": "Assists",
