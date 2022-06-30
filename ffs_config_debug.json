@@ -1,4 +1,5 @@
 {
+  "baseDomain": "http://stg-api.ffscore.net/",
   "baseUrl": "http://stg-api.ffscore.net/api/flashscore/",
   "minAcceptVersion": 2,
   "isContainsAds": false,
